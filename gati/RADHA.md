@@ -7,7 +7,7 @@ Këto 12 postime janë ato me të cilat nis profili @kontura.al. Çdo postim ka 
 - Pamja: linku publik `https://raw.githubusercontent.com/nikolaabazi12-cpu/kontura-media/main/gati/NN_emri.png`.
 - Përshkrimi: teksti i plotë i skedarit `.txt`, pa ndryshime.
 - Në javët e këtyre postimeve nuk krijohen postime të reja. Vetëm Reel-i javor bëhet si zakonisht.
-- Pas çdo planifikimi shënohet në memory cilat postime u planifikuan, që të mos dyfishohen.
+- Pas çdo planifikimi shënohet te tabela Planifikuar cilat postime u planifikuan, që të mos dyfishohen.
 
 ## Radha
 | Java | Postimet |
@@ -16,6 +16,13 @@ Këto 12 postime janë ato me të cilat nis profili @kontura.al. Çdo postim ka 
 | 2 | 04 Rregulli i shiritave · 05 Çmimi · 06 Aktivizimi |
 | 3 | 07 Forma reale · 08 Format pa viza · 09 Skedarët për makinat |
 | 4 | 10 107 fonte · 11 Distanca e matur · 12 Raporti PDF |
+
+## Planifikuar
+| Nr · data · ora | Gjendja |
+|---|---|
+| 01 · 27.11.2026 · 10:00 | DRAFT në Metricool (autoPublish) |
+| 02 · 28.11.2026 · 10:00 | DRAFT në Metricool (autoPublish) |
+| 03 · 29.11.2026 · 10:00 | DRAFT në Metricool (autoPublish) |
 
 ## Për pronarin
 Pas publikimit, vendos «Pin» te postimet 01, 02 dhe 03 në aplikacionin e Instagram-it. Kjo nuk bëhet dot nga Metricool.
