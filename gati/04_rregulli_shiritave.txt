@@ -1,0 +1,15 @@
+Sa shirita LED në trashësinë e shkronjës?
+
+Programi vjen me këtë rregull:
+▸ nën 5 cm: 1 shirit
+▸ nën 10 cm: 2 shirita
+▸ deri 15 cm: 3 shirita
+▸ +1 shirit për çdo 5 cm më tej
+
+Rregulli është tabela juaj: e ndryshoni si punoni ju, deri në 12 intervale. Për një shkronjë të vetme mund ta ndryshoni me dorë (− / +) ose ta ktheni «auto».
+
+Shkronjat me trashësi të afërt marrin të njëjtin numër shiritash, që fjala të dalë e njëtrajtshme.
+
+Në foto: katër vija 60 cm të gjata, me trashësi 4, 8, 13 dhe 18 cm.
+
+#ledshkronja #reklama #germa3d #ledstrip

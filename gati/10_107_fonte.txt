@@ -1,0 +1,9 @@
+107 fonte. 9.366 shkronja.
+
+Kaq shkronja u provuan në Llogaritësin LED gjatë ndërtimit: çdo shkronjë e alfabetit, shifrat, Ç, Ë dhe &@?!%, në 107 fonte të Windows-it.
+
+Programi i lexon vetë fontet e kompjuterit tuaj: shkruani tekstin, zgjidhni fontin dhe lartësinë, dhe shiritat vizatohen brenda shkronjave.
+
+Në foto: A–Z, Ç dhe Ë me shkronja 20 cm: 13,00 m LED.
+
+#ledshkronja #reklama #germa3d #ledstrip

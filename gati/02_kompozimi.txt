@@ -1,0 +1,13 @@
+Sa material shkon në mbetje?
+
+Optimizim Kompozimesh i vendos pjesët në fletë me formën e tyre reale, jo si drejtkëndësha: shkronja, pjesë metali, druri, plexi apo alukobondi. Pjesët e vogla hyjnë edhe brenda vrimave të të mëdhave, si O-ja te O-ja në foto.
+
+▸ Distancën mes pjesëve e vendosni ju (p.sh. 1 cm) dhe programi e respekton
+▸ Rrotullim 0/90/180/270° ose me çdo hap këndi
+▸ Përmasat e fletëve tuaja mbeten të ruajtura (305 × 205, 244 × 122 cm…)
+▸ Rezultati: fletët, m² e përdorur, shfrytëzimi, mbetja dhe distanca reale më e vogël
+▸ Ruajtja 1:1 në mm: EPS për frezën, DXF për lazerin, SVG për Illustrator, një skedar për çdo fletë
+
+Në foto: 1 × KONTURA 45 cm + 2 × KONTURA 15 cm në një fletë 244 × 122 cm, me 1 cm distancë.
+
+#cnc #freze #lazer #plazma #nesting

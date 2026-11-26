@@ -1,0 +1,15 @@
+Sa metra LED do të duhen?
+
+Llogaritës LED për Shkronja i vizaton shiritat brenda çdo shkronje, me vija të drejta te vizat e drejta dhe me hark vetëm aty ku shkronja ka hark, dhe i mat.
+
+Shembulli DRITË që vjen me programin (shkronja 40 cm):
+▸ 12,09 m LED
+▸ me 5 % rezervë: 12,69 m
+▸ 3 rrotulla prej 5 m
+
+▸ Hapni SVG, DXF, EPS ose shkruani tekstin me një font të Windows-it
+▸ Për çdo shkronjë: lartësia, shiritat në trashësi, copat dhe metrat
+▸ Rezervën dhe gjatësinë e rrotullës i caktoni ju
+▸ Raport PDF dhe tabelë Excel
+
+#ledshkronja #reklama #germa3d #ledstrip #signage

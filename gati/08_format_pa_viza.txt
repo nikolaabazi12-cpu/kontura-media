@@ -1,0 +1,14 @@
+Jo çdo tabelë ka shkronja.
+
+Për format pa viza (zemër, pikë uji, flluskë, logo), Llogaritës LED i vendos shiritat si unaza brenda formës, në largësi të barabarta nga muri. Kjo është mënyra «kontur».
+
+▸ «Auto» e zgjedh vetë mënyrën për çdo pjesë: vizë ose kontur
+▸ Mund ta zgjidhni edhe me dorë, pjesë për pjesë
+▸ Metrat dhe rrotullat llogariten njësoj si te shkronjat
+
+Në foto, me rregullin e paracaktuar (te të tria «auto» zgjodhi vetë konturin):
+Zemër 45 × 41 cm: 2,61 m LED
+Pikë uji 36 × 52 cm: 2,75 m LED
+Flluskë 43 × 42 cm: 3,03 m LED
+
+#ledshkronja #reklama #ledstrip #signage #logo

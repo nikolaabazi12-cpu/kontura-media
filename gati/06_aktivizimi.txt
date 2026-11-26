@@ -1,0 +1,12 @@
+Si aktivizohet programi? 4 hapa:
+
+1. Instaloni programin (Windows 10/11, pa të drejta administratori)
+2. Shtypni «Kopjo» te «Kodi i kompjuterit»
+3. Na e dërgoni kodin me emrin tuaj ose të firmës: SMS, WhatsApp, Viber ose email
+4. Pas pagesës ju dërgojmë çelësin: e ngjitni te «Çelësi i licencës» dhe shtypni «Aktivizo»
+
+Çelësi vlen për atë kompjuter dhe për atë program. Nëse ndërroni kompjuterin, na shkruani për një çelës të ri.
+
+Shënim: meqë programi është i ri, Windows mund të shfaqë «Windows protected your PC». Shtypni «More info» dhe pastaj «Run anyway».
+
+#cnc #lazer #freze #ledstrip

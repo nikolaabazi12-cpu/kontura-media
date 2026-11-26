@@ -1,0 +1,12 @@
+Raporti, gati për punishten.
+
+Llogaritës LED për Shkronja nxjerr një PDF A4 me:
+▸ LED gjithsej dhe me rezervë, me rrotullat
+▸ skemën me shiritat dhe metrat për çdo shkronjë
+▸ tabelën: lartësia, vija qendrore, shiritat në trashësi, copat dhe metrat
+
+Edhe tabelë Excel me formula, skemë SVG dhe tabelë CSV.
+
+Në foto: raporti i shembullit DRITË që vjen me programin.
+
+#ledshkronja #reklama #germa3d #ledstrip

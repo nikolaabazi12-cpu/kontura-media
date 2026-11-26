@@ -1,0 +1,12 @@
+EPS apo DXF?
+
+Optimizim Kompozimesh e ruan kompozimin në tre formate, në shkallë 1:1 (mm):
+▸ EPS për frezën
+▸ DXF (R12) për lazerin
+▸ SVG për Illustrator
+
+Një skedar për çdo fletë, ose një ZIP me të tria. Kur ka shumë fleta, zgjidhni dosjen dhe programi i ruan të gjitha; para se të zëvendësojë skedarë që ekzistojnë, ju pyet.
+
+Në foto: fleta 244 × 122 cm me TIRANA × 3, siç del në skedar.
+
+#cnc #freze #lazer #plazma #dxf

@@ -1,0 +1,9 @@
+1 cm do të thotë 1 cm.
+
+Distancën mes pjesëve e vendosni ju. Në fund të kërkimit, Optimizim Kompozimesh mat distancën reale më të vogël mes të gjitha pjesëve dhe ju tregon nëse është «NË RREGULL».
+
+Distanca reale del gjithmonë sa e kërkuara ose pak më shumë, kurrë më pak. Matet edhe buza nga fleta.
+
+Në foto: TIRANA × 3 me distancë 1 cm. Distanca më e vogël që gjeti programi: 10,3 mm.
+
+#cnc #freze #lazer #plazma #nesting

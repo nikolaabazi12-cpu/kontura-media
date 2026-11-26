@@ -1,0 +1,12 @@
+Sa kursen forma reale?
+
+E njëjta punë, në të njëjtin program, me dy mënyra:
+▸ si drejtkëndësha (kutia e çdo shkronje): 1,438 m² fletë
+▸ me formën reale të shkronjave: 1,155 m² fletë
+Diferenca: 0,283 m², pra 19,7 % më pak material.
+
+Optimizim Kompozimesh i vendos pjesët me konturin e tyre. Te shkronjat në foto, A-të vendosen njëra drejt e tjetra përmbys, që të hyjnë në njëra-tjetrën.
+
+Në foto: TIRANA × 3, shkronja 30 cm, fletë 244 × 122 cm, distanca 1 cm, kërkim 30 sekonda. Shifrat janë sipërfaqja e zënë e fletës (gjatësia × gjerësia e përdorur).
+
+#cnc #freze #lazer #nesting #plexiglass

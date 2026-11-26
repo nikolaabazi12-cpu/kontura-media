@@ -1,0 +1,13 @@
+Mos e matni me sy.
+
+KONTURA janë dy programe për Windows, për punishtet që presin me frezë CNC, lazer ose plazmë dhe për kë punon me LED:
+
+✂️ Optimizim Kompozimesh: vendos pjesët në fletë me formën e tyre reale, me sa më pak humbje materiali, dhe nxjerr skedarët për frezën dhe lazerin (EPS, DXF, SVG). Hap edhe DXF-të që vijnë nga programet e vizatimit.
+
+💡 Llogaritës LED për Shkronja: vizaton shiritat LED brenda shkronjave, logove dhe formave, llogarit sa metra duhen dhe sa rrotulla të blini, dhe nxjerr raport PDF dhe Excel.
+
+Shiritat te fjala KONTURA në foto i vizatoi vetë programi.
+
+Ndiqni faqen për shembuj, këshilla dhe çmime.
+
+#cnc #lazer #freze #ledshkronja #reklama
